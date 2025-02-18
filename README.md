@@ -166,7 +166,6 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Enable: php_opcache.dll:
 </p>
 <p>
-	<img src="https://prnt.sc/B9MpWv-0laot" height="75%" width="100%"/>
 </p>
 <br />
 <br />
